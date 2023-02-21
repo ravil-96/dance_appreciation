@@ -1,4 +1,4 @@
-# dance_appreciation
+# Dance Appreciation
 Dance Appreciation Website
 
 This repository is codebase for Dance Appreciation Society website - a society dedicated to having fun watching dance online and in real and talking about it with peers.
